@@ -1,2 +1,2 @@
 # netflix-clone
-This is My First Repository
+This is My First Git Repository
